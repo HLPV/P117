@@ -1,0 +1,23 @@
+body{
+    text-align: center ;
+    background-color:deepskyblue;
+    color:ivory;
+    font-size: 25px;
+  }
+  #div1{
+    float: right;
+  }
+  
+  canvas 
+    {
+     
+  
+      animation-iteration-count: infinite;
+      
+  }
+  @keyframes example {
+  
+    
+  }
+  
+  
